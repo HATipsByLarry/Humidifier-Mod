@@ -1,0 +1,34 @@
+sensor:
+  - platform: adc
+    pin: 2
+    name: "Status Light 1"
+    attenuation: auto
+    update_interval: 500ms 
+
+  - platform: adc
+    pin: 3
+    name: "Status Light 2"
+    attenuation: auto
+    update_interval: 500ms 
+
+switch:
+  - platform: gpio
+    pin: 9
+    id: on_off
+
+button:
+  - platform: template
+    id: on_mist_level
+    name: "On/Mist Level"
+    on_press:
+      - switch.turn_on: on_off
+      - delay: 300ms
+      - switch.turn_off: on_off
+
+  - platform: template
+    id: turn_off
+    name: "Off"
+    on_press:
+      - switch.turn_on: on_off
+      - delay: 3500ms
+      - switch.turn_off: on_off
