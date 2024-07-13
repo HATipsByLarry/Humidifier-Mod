@@ -10,3 +10,5 @@ ESPHome Code: https://github.com/HATipsByLarry/Humidifier-Mod/blob/main/ESPHome%
 Wiring Diagram: https://github.com/HATipsByLarry/Humidifier-Mod/blob/main/Humidifier%20Wiring%20Diagram.jpg
 
 You Tube Video: https://www.youtube.com/watch?v=3fc5xPAXdZA
+
+Found This Useful and want to say thanks ___ ☕ Buy Me A Coffee! ☕ __ https://www.buymeacoffee.com/hatipsbylarry
