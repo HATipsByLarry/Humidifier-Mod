@@ -8,3 +8,5 @@ Some of these links may be Amazon affiliate links. Use of these links will not a
 ESPHome Code: https://github.com/HATipsByLarry/Humidifier-Mod/blob/main/ESPHome%20Code
 
 Wiring Diagram: https://github.com/HATipsByLarry/Humidifier-Mod/blob/main/Humidifier%20Wiring%20Diagram.jpg
+
+You Tube Video: https://www.youtube.com/watch?v=3fc5xPAXdZA
